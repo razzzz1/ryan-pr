@@ -1,0 +1,41 @@
+
+        body {
+            font-family: sans-serif;
+        }
+        .subject {
+            margin-bottom: 10px;
+        }
+        .subject label {
+            display: block;
+            margin-bottom: 5px;
+        }
+        .subject input[type="text"] {
+            width: 100px;
+            padding: 5px;
+        }
+        button {
+            padding: 10px;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+        #average {
+            color: green;
+            margin-top: 10px;
+        }
+        #message {
+            color: red;
+        }
+        #grade {
+            font-weight: bold;
+            margin-top: 10px;
+        }
+        #subjects {
+            color: green;
+            font-size: 28px;
+        }
+        h1 {
+            color: green;
+            text-align: center;
+        }
+    

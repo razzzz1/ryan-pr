@@ -1,0 +1,500 @@
+{
+    "results": [
+        {
+            "endtermexam": {
+                "andrew john": {
+                    "subject": {
+                        "math": {
+                            "marks": 84,
+                            "grade": "A"
+                          },
+                          "english": {
+                            "marks": 78,
+                            "grade": "A-"
+                          },
+                          "biology": {
+                            "marks": 56,
+                            "grade": "C"
+                          },
+                          "chemistry": {
+                            "marks": 67,
+                            "grade": "B+"
+                          },
+                          "physics": {
+                            "marks": 89,
+                            "grade": "A"
+                          },
+                          "history": {
+                            "marks": 65,
+                            "grade": "B"
+                          },
+                          "geography": {
+                            "marks": 78,
+                            "grade": "A-"
+                          },
+                          "computerStudies": {
+                            "marks": 78,
+                            "grade": "A-"
+                          }
+                    
+                    
+                    }
+                }
+            },
+            "cat1": { 
+                "andrew john": {
+                    "subject": {
+                        "math": {
+                            "marks": 98,
+                            "grade": "A"
+                      },
+                      "english": {
+                        "marks": 78,
+                        "grade": "A-"
+                      },
+                      "biology": {
+                        "marks": 52,
+                        "grade": "C-"
+                      },
+                      "chemistry": {
+                        "marks": 67,
+                        "grade": "B+"
+                      },
+                      "physics": {
+                        "marks": 78,
+                        "grade": "A-"
+                      },
+                      "history": {
+                        "marks": 65,
+                        "grade": "B"
+                      },
+                      "geography": {
+                        "marks": 45,
+                        "grade": "D+"
+                      },
+                      "computerStudies": {
+                        "marks": 88,
+                        "grade": "A"
+                      }
+                
+                
+                }
+            }
+
+            },
+            "cat2": { 
+                "andrew john": {
+                "subject": {
+                    "math": {
+                        "marks": 84,
+                        "grade": "A"
+                      },
+                      "english": {
+                        "marks": 82,
+                        "grade": "A"
+                      },
+                      "biology": {
+                        "marks": 60,
+                        "grade": "B"
+                      },
+                      "chemistry": {
+                        "marks": 82,
+                        "grade": "A"
+                      },
+                      "physics": {
+                        "marks": 89,
+                        "grade": "A"
+                      },
+                      "history": {
+                        "marks": 95,
+                        "grade": "A"
+                      },
+                      "geography": {
+                        "marks": 52,
+                        "grade": "C-"
+                      },
+                      "computerStudies": {
+                        "marks": 69,
+                        "grade": "B+"
+                      }
+                
+                
+                }
+            }
+        }
+    },
+
+
+            {
+            "endtermexam": {
+                "ryan maiyo": {
+                    "subject": {
+                        "math": {
+                            "marks": 98,
+                            "grade": "A"
+                          },
+                          "english": {
+                            "marks": 62,
+                            "grade": "B"
+                          },
+                          "biology": {
+                            "marks": 51,
+                            "grade": "C-"
+                          },
+                          "chemistry": {
+                            "marks": 71,
+                            "grade": "B+"
+                          },
+                          "physics": {
+                            "marks": 65,
+                            "grade": "B"
+                          },
+                          "history": {
+                            "marks": 74,
+                            "grade": "B+"
+                          },
+                          "geography": {
+                            "marks": 78,
+                            "grade": "A-"
+                          },
+                          "computerStudies": {
+                            "marks": 62,
+                            "grade": "B"
+                          }
+                    
+                    
+                    }
+                }
+    
+    
+                },
+                "cat1": { 
+                    "ryan maiyo": {
+                    "subject": {
+                        "math": {
+                            "marks": 86,
+                            "grade": "A"
+                          },
+                          "english": {
+                            "marks": 64,
+                            "grade": "B"
+                          },
+                          "biology": {
+                            "marks": 48,
+                            "grade": "D+"
+                          },
+                          "chemistry": {
+                            "marks": 78,
+                            "grade": "A-"
+                          },
+                          "physics": {
+                            "marks": 59,
+                            "grade": "B"
+                          },
+                          "history": {
+                            "marks": 66,
+                            "grade": "B+"
+                          },
+                          "geography": {
+                            "marks": 52,
+                            "grade": "C-"
+                          },
+                          "computerStudies": {
+                            "marks": 60,
+                            "grade": "B"
+                          }
+                    
+                        }
+                    }
+                },
+               "cat2": { 
+                "ryan maiyo": {
+                "subject": {
+                    "math": {
+                        "marks": 90,
+                        "grade": "A"
+                      },
+                      "english": {
+                        "marks": 58,
+                        "grade": "C"
+                      },
+                      "biology": {
+                        "marks": 44,
+                        "grade": "D-"
+                      },
+                      "chemistry": {
+                        "marks": 79,
+                        "grade": "A-"
+                      },
+                      "physics": {
+                        "marks": 62,
+                        "grade": "B"
+                      },
+                      "history": {
+                        "marks": 78,
+                        "grade": "A-"
+                      },
+                      "geography": {
+                        "marks": 74,
+                        "grade": "A-"
+                      },
+                      "computerStudies": {
+                        "marks": 64,
+                        "grade": "B"
+                      }
+                
+                    }
+                }
+
+               } 
+            },
+            {
+                "endtermexam": {
+                    "kennedy kiplagat": {
+                        "subject": {
+                            "math": {
+                                "marks": 84,
+                                "grade": "A"
+                              },
+                              "english": {
+                                "marks": 78,
+                                "grade": "A-"
+                              },
+                              "biology": {
+                                "marks": 50,
+                                "grade": "C-"
+                              },
+                              "chemistry": {
+                                "marks": 74,
+                                "grade": "A-"
+                              },
+                              "physics": {
+                                "marks": 90,
+                                "grade": "A"
+                              },
+                              "history": {
+                                "marks": 65,
+                                "grade": "B+"
+                              },
+                              "geography": {
+                                "marks": 92,
+                                "grade": "A"
+                              },
+                              "computerStudies": {
+                                "marks": 19,
+                                "grade": "E"
+                              }
+                        
+                            }
+                        }
+        
+            },
+            "cat1": { 
+                "kennedy kiplagat": {
+                "subject": {
+                    "math": {
+                        "marks": 96,
+                        "grade": "A"
+                      },
+                      "english": {
+                        "marks": 64,
+                        "grade": "B"
+                      },
+                      "biology": {
+                        "marks": 60,
+                        "grade": "B"
+                      },
+                      "chemistry": {
+                        "marks": 72,
+                        "grade": "B"
+                      },
+                      "physics": {
+                        "marks": 88,
+                        "grade": "A"
+                      },
+                      "history": {
+                        "marks": 76,
+                        "grade": "A-"
+                      },
+                      "geography": {
+                        "marks": 78,
+                        "grade": "A-"
+                      },
+                      "computerStudies": {
+                        "marks": 84,
+                        "grade": "A"
+                      }
+                
+                    }
+                }
+
+
+            },
+            "cat2": { 
+                "kennedy kiplagat": {
+                "subject": {
+                    "math": {
+                        "marks": 80,
+                        "grade": "A"
+                      },
+                      "english": {
+                        "marks": 90,
+                        "grade": "A"
+                      },
+                      "biology": {
+                        "marks": 44,
+                        "grade": "D+"
+                      },
+                      "chemistry": {
+                        "marks": 78,
+                        "grade": "A-"
+                      },
+                      "physics": {
+                        "marks": 84,
+                        "grade": "A"
+                      },
+                      "history": {
+                        "marks": 90,
+                        "grade": "A"
+                      },
+                      "geography": {
+                        "marks": 92,
+                        "grade": "A"
+                      },
+                      "computerStudies": {
+                        "marks": 38,
+                        "grade": "E"
+                      }
+                
+                    }
+                }
+
+  }
+
+
+
+            },
+        
+        {
+                "endtermexam": { 
+                    "Ruth kimeli": {
+                    "subject": {
+                        "math": {
+                            "marks": 54,
+                            "grade": "C-"
+                          },
+                          "english": {
+                            "marks": 68,
+                            "grade": "B+"
+                          },
+                          "biology": {
+                            "marks": 72,
+                            "grade": "B+"
+                          },
+                          "chemistry": {
+                            "marks": 42,
+                            "grade": "D-"
+                          },
+                          "physics": {
+                            "marks": 64,
+                            "grade": "B"
+                          },
+                          "history": {
+                            "marks": 81,
+                            "grade": "A"
+                          },
+                          "geography": {
+                            "marks": 51,
+                            "grade": "C-"
+                          },
+                          "computerStudies": {
+                            "marks": 78,
+                            "grade": "A-"
+                          }
+                    
+                        }
+                    }
+    
+
+            },
+            "cat1": {
+                 "Ruth kimeli": {
+                "subject": {
+                    "math": {
+                        "marks": 71,
+                        "grade": "A-"
+                      },
+                      "english": {
+                        "marks": 70,
+                        "grade": "B+"
+                      },
+                      "biology": {
+                        "marks": 78,
+                        "grade": "A-"
+                      },
+                      "chemistry": {
+                        "marks": 64,
+                        "grade": "B"
+                      },
+                      "physics": {
+                        "marks": 66,
+                        "grade": "B+"
+                      },
+                      "history": {
+                        "marks": 88,
+                        "grade": "A"
+                      },
+                      "geography": {
+                        "marks": 76,
+                        "grade": "A-"
+                      },
+                      "computerStudies": {
+                        "marks": 88,
+                        "grade": "A"
+                      }
+                
+                    }
+                }
+            },
+            "cat2": { 
+                "Ruth kimeli": {
+                "subject": {
+                    "math": {
+                        "marks": 58,
+                        "grade": "C+"
+                      },
+                      "english": {
+                        "marks": 60,
+                        "grade": "B"
+                      },
+                      "biology": {
+                        "marks": 82,
+                        "grade": "A"
+                      },
+                      "chemistry": {
+                        "marks": 62,
+                        "grade": "B"
+                      },
+                      "physics": {
+                        "marks": 86,
+                        "grade": "A"
+                      },
+                      "history": {
+                        "marks": 64,
+                        "grade": "B"
+                      },
+                      "geography": {
+                        "marks": 78,
+                        "grade": "A-"
+                      },
+                      "computerStudies": {
+                        "marks": 80,
+                        "grade": "A"
+                      }
+                
+                    }
+                }
+            }
+        }
+    ]
+}
