@@ -43,6 +43,9 @@
             document.getElementById('average').textContent = "";
             message.textContent = "";
         }
+        for (mase = 1; mase <=4; mase++) {
+            let value = parseInt(subjectInput.value);
+        
         function getLetterGrade() {
             if (average >=81) {
                 return "A"
@@ -77,3 +80,4 @@
             message.textContent = "";
             document.getElementById("grade").innerHTML = `grade: ${average}`;
         }
+    }
